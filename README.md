@@ -1,4 +1,4 @@
-# Week5ReacthandsON
+# Week6ReacthandsON
 
 ReactJS Hands-On Labs
 
